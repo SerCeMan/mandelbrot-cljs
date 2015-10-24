@@ -1,0 +1,2083 @@
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.103 seconds.[0m
+notifying browser that file changed:  target/js/out/goog/deps.js
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+notifying browser that file changed:  /mandelbrot/dev.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.086 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: Use of undeclared Var mandelbrot.core/vertex-shader-source at line 70 src/page.cljs
+WARNING: Use of undeclared Var mandelbrot.core/fragment-shader-source at line 71 src/page.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.105 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: vertex-shader-source2 at line 11 is being replaced at line 67 src/page.cljs
+WARNING: fragment-shader-source2 at line 17 is being replaced at line 73 src/page.cljs
+WARNING: Use of undeclared Var mandelbrot.core/vertex-shader-source at line 87 src/page.cljs
+WARNING: Use of undeclared Var mandelbrot.core/fragment-shader-source at line 88 src/page.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.094 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.089 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.094 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.087 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.119 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.086 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.102 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.088 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.1 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.091 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.089 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: Use of undeclared Var cljs-webgl.shaders/en at line 148 src/page.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.094 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.091 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.099 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: Wrong number of args (0) passed to cljs-webgl.buffers/create-buffer at line 149 src/page.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.09 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: Wrong number of args (3) passed to cljs-webgl.buffers/create-buffer at line 149 src/page.cljs
+WARNING: Use of undeclared Var mandelbrot.core/static-draw at line 151 src/page.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.083 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: Wrong number of args (3) passed to cljs-webgl.buffers/create-buffer at line 149 src/page.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.088 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.093 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.083 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.19 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.103 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.087 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.095 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: Use of undeclared Var mandelbrot.core/triangle-strip at line 167 src/page.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.122 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: Use of undeclared Var mandelbrot.core/triangle-strip at line 167 src/page.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.088 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[31mCompiling "target/js/mandelbrot.js" failed.[0m
+java.lang.AssertionError: No ns form found in src/cljs-webgl.buf2.cljs
+ at cljs.analyzer$parse_ns$fn__2118.invoke (analyzer.cljc:2740)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2694)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2685)
+    cljs.compiler$compile_root$fn__3168.invoke (compiler.cljc:1377)
+    clojure.core$map$fn__4553.invoke (core.clj:2624)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:507)
+    clojure.core/seq (core.clj:137)
+    clojure.core$map$fn__4553.invoke (core.clj:2616)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:507)
+    clojure.core/seq (core.clj:137)
+    clojure.core.protocols$seq_reduce.invoke (protocols.clj:30)
+    clojure.core.protocols/fn (protocols.clj:101)
+    clojure.core.protocols$fn__6452$G__6447__6465.invoke (protocols.clj:13)
+    clojure.core$reduce.invoke (core.clj:6519)
+    cljs.js_deps$build_index.invoke (js_deps.cljc:128)
+    cljs.js_deps$dependency_order.invoke (js_deps.cljc:168)
+    cljs.compiler$compile_root.invoke (compiler.cljc:1376)
+    cljs.closure$compile_dir.invoke (closure.clj:446)
+    cljs.closure$eval3588$fn__3589.invoke (closure.clj:486)
+    cljs.closure$eval3540$fn__3541$G__3531__3548.invoke (closure.clj:391)
+    cljs.closure$eval3601$fn__3602.invoke (closure.clj:500)
+    cljs.closure$eval3540$fn__3541$G__3531__3548.invoke (closure.clj:391)
+    clojurescript_build.core.CompilableSourcePaths/fn (core.clj:20)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojurescript_build.core.CompilableSourcePaths._compile (core.clj:19)
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[31mCompiling "target/js/mandelbrot.js" failed.[0m
+java.lang.AssertionError: No ns form found in src/buf2.cljs
+ at cljs.analyzer$parse_ns$fn__2118.invoke (analyzer.cljc:2740)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2694)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2685)
+    cljs.compiler$compile_root$fn__3168.invoke (compiler.cljc:1377)
+    clojure.core$map$fn__4553.invoke (core.clj:2624)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:507)
+    clojure.core/seq (core.clj:137)
+    clojure.core$map$fn__4553.invoke (core.clj:2616)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.next (RT.java:674)
+    clojure.core/next (core.clj:64)
+    clojure.core.protocols/fn (protocols.clj:170)
+    clojure.core.protocols$fn__6478$G__6473__6487.invoke (protocols.clj:19)
+    clojure.core.protocols$seq_reduce.invoke (protocols.clj:31)
+    clojure.core.protocols/fn (protocols.clj:101)
+    clojure.core.protocols$fn__6452$G__6447__6465.invoke (protocols.clj:13)
+    clojure.core$reduce.invoke (core.clj:6519)
+    cljs.js_deps$build_index.invoke (js_deps.cljc:128)
+    cljs.js_deps$dependency_order.invoke (js_deps.cljc:168)
+    cljs.compiler$compile_root.invoke (compiler.cljc:1376)
+    cljs.closure$compile_dir.invoke (closure.clj:446)
+    cljs.closure$eval3588$fn__3589.invoke (closure.clj:486)
+    cljs.closure$eval3540$fn__3541$G__3531__3548.invoke (closure.clj:391)
+    cljs.closure$eval3601$fn__3602.invoke (closure.clj:500)
+    cljs.closure$eval3540$fn__3541$G__3531__3548.invoke (closure.clj:391)
+    clojurescript_build.core.CompilableSourcePaths/fn (core.clj:20)
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: Use of undeclared Var mandelbrot.core/uniform-location at line 166 src/page.cljs
+WARNING: Use of undeclared Var mandelbrot.core/values at line 166 src/page.cljs
+WARNING: Use of undeclared Var mandelbrot.core/triangle-strip at line 168 src/page.cljs
+WARNING: buf2 is a single segment namespace at line 1 src/buf2.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.183 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+notifying browser that file changed:  /buf2.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: Use of undeclared Var mandelbrot.core/triangle-strip at line 167 src/page.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.085 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: Use of undeclared Var mandelbrot.core/triangle-strip at line 167 src/page.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.088 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.118 seconds.[0m
+notifying browser that file changed:  target/js/out/goog/deps.js
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+notifying browser that file changed:  /buf2.js
+notifying browser that file changed:  /mandelbrot/dev.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: Use of undeclared Var mandelbrot.core/triangle-strip at line 168 src/page.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.201 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: buf2 is a single segment namespace at line 1 src/buf2.cljs
+WARNING: Use of undeclared Var mandelbrot.core/triangle-strip at line 168 src/page.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.285 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+notifying browser that file changed:  /buf2.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: buf2 is a single segment namespace at line 1 src/buf2.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.21 seconds.[0m
+notifying browser that file changed:  /buf2.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.131 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.131 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.141 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.097 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.096 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.097 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.106 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.096 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.096 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.092 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: Wrong number of args (1) passed to cljs-webgl.buffers/clear-color-buffer at line 166 src/page.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.095 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.104 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.1 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.098 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.096 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.086 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.107 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.089 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.094 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.09 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.104 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.079 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.08 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.074 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.078 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.065 seconds.[0m
+notifying browser that file changed:  /mandelbrot/dev.js
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.126 seconds.[0m
+notifying browser that file changed:  target/js/out/goog/deps.js
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+notifying browser that file changed:  /buf2.js
+notifying browser that file changed:  /mandelbrot/dev.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: buf2 is a single segment namespace at line 1 src/buf2.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.35 seconds.[0m
+notifying browser that file changed:  /buf2.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: buf2 is a single segment namespace at line 1 src/buf2.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.248 seconds.[0m
+notifying browser that file changed:  /buf2.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: buf2 is a single segment namespace at line 1 src/buf2.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.274 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+notifying browser that file changed:  /buf2.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: No such namespace: fw, could not locate fw.cljs, fw.cljc, or Closure namespace "" at line 15 src/page.cljs
+WARNING: Use of undeclared Var fw/start at line 15 src/page.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.129 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.118 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+notifying browser that file changed:  /mandelbrot/dev.js
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.138 seconds.[0m
+notifying browser that file changed:  target/js/out/goog/deps.js
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+notifying browser that file changed:  /buf2.js
+notifying browser that file changed:  /mandelbrot/dev.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.207 seconds.[0m
+notifying browser that file changed:  /mandelbrot/dev.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.126 seconds.[0m
+notifying browser that file changed:  /mandelbrot/dev.js
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.106 seconds.[0m
+notifying browser that file changed:  target/js/out/goog/deps.js
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+notifying browser that file changed:  /buf2.js
+notifying browser that file changed:  /mandelbrot/dev.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.124 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.128 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.126 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.111 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.113 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.122 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: Use of undeclared Var mandelbrot.core/draw at line 122 src/page.cljs
+WARNING: Use of undeclared Var mandelbrot.core/draw at line 122 src/page.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.151 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.08 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.082 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.076 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.09 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.077 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.078 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.077 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.096 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.081 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.087 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.074 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: Use of undeclared Var mandelbrot.core/gl at line 88 src/page.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.118 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.074 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[31mCompiling "target/js/mandelbrot.js" failed.[0m
+clojure.lang.ExceptionInfo: failed compiling file:src/page.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.compiler$compile_file$fn__3144.invoke (compiler.cljc:1347)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1309)
+    cljs.compiler$compile_root.invoke (compiler.cljc:1384)
+    cljs.closure$compile_dir.invoke (closure.clj:446)
+    cljs.closure$eval3588$fn__3589.invoke (closure.clj:486)
+    cljs.closure$eval3540$fn__3541$G__3531__3548.invoke (closure.clj:391)
+    cljs.closure$eval3601$fn__3602.invoke (closure.clj:500)
+    cljs.closure$eval3540$fn__3541$G__3531__3548.invoke (closure.clj:391)
+    clojurescript_build.core.CompilableSourcePaths/fn (core.clj:20)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojurescript_build.core.CompilableSourcePaths._compile (core.clj:19)
+    cljs.closure$build.invoke (closure.clj:1683)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:160)
+    figwheel_sidecar.auto_builder$default_build_options$fn__15760.invoke (auto_builder.clj:61)
+    figwheel_sidecar.auto_builder$insert_figwheel_connect_script$fn__15806.invoke (auto_builder.clj:201)
+    figwheel_sidecar.auto_builder$warning$fn__15757.invoke (auto_builder.clj:57)
+    clojurescript_build.auto$time_build$fn__15560.invoke (auto.clj:56)
+    clojurescript_build.auto$after$fn__15566.invoke (auto.clj:65)
+    clojurescript_build.auto$after$fn__15566.invoke (auto.clj:65)
+    clojurescript_build.auto$error$fn__15569.invoke (auto.clj:72)
+    clojurescript_build.auto$before$fn__15563.invoke (auto.clj:61)
+    clojurescript_build.auto$make_conditional_builder$fn__15581.invoke (auto.clj:104)
+    clojure.core$mapv$fn__6727.invoke (core.clj:6616)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojure.core$mapv.invoke (core.clj:6616)
+    clojurescript_build.auto$autobuild_STAR_$fn__15667$state_machine__9543__auto____15668$fn__15673.invoke (auto.clj:187)
+    clojurescript_build.auto$autobuild_STAR_$fn__15667$state_machine__9543__auto____15668.invoke (auto.clj:178)
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.083 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[31mCompiling "target/js/mandelbrot.js" failed.[0m
+clojure.lang.ExceptionInfo: failed compiling file:src/page.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.compiler$compile_file$fn__3144.invoke (compiler.cljc:1347)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1309)
+    cljs.compiler$compile_root.invoke (compiler.cljc:1384)
+    cljs.closure$compile_dir.invoke (closure.clj:446)
+    cljs.closure$eval3588$fn__3589.invoke (closure.clj:486)
+    cljs.closure$eval3540$fn__3541$G__3531__3548.invoke (closure.clj:391)
+    cljs.closure$eval3601$fn__3602.invoke (closure.clj:500)
+    cljs.closure$eval3540$fn__3541$G__3531__3548.invoke (closure.clj:391)
+    clojurescript_build.core.CompilableSourcePaths/fn (core.clj:20)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojurescript_build.core.CompilableSourcePaths._compile (core.clj:19)
+    cljs.closure$build.invoke (closure.clj:1683)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:160)
+    figwheel_sidecar.auto_builder$default_build_options$fn__15760.invoke (auto_builder.clj:61)
+    figwheel_sidecar.auto_builder$insert_figwheel_connect_script$fn__15806.invoke (auto_builder.clj:201)
+    figwheel_sidecar.auto_builder$warning$fn__15757.invoke (auto_builder.clj:57)
+    clojurescript_build.auto$time_build$fn__15560.invoke (auto.clj:56)
+    clojurescript_build.auto$after$fn__15566.invoke (auto.clj:65)
+    clojurescript_build.auto$after$fn__15566.invoke (auto.clj:65)
+    clojurescript_build.auto$error$fn__15569.invoke (auto.clj:72)
+    clojurescript_build.auto$before$fn__15563.invoke (auto.clj:61)
+    clojurescript_build.auto$make_conditional_builder$fn__15581.invoke (auto.clj:104)
+    clojure.core$mapv$fn__6727.invoke (core.clj:6616)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojure.core$mapv.invoke (core.clj:6616)
+    clojurescript_build.auto$autobuild_STAR_$fn__15667$state_machine__9543__auto____15668$fn__15673.invoke (auto.clj:187)
+    clojurescript_build.auto$autobuild_STAR_$fn__15667$state_machine__9543__auto____15668.invoke (auto.clj:178)
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.08 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.084 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.084 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.078 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.091 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.078 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.08 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.113 seconds.[0m
+notifying browser that file changed:  target/js/out/goog/deps.js
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+notifying browser that file changed:  /buf2.js
+notifying browser that file changed:  /mandelbrot/dev.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: Wrong number of args (0) passed to reagent.core/render at line 120 src/page.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 1.334 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: Wrong number of args (1) passed to reagent.core/render at line 121 src/page.cljs
+[31mCompiling "target/js/mandelbrot.js" failed.[0m
+ERROR: Unmatched delimiter ) on file /home/serce/workspace/mandelbrot-cljs/src/page.cljs, line 127, column 64
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.138 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.125 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.093 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.091 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.086 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.101 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.085 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.086 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.084 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.108 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.087 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.086 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.089 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.084 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.083 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.085 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.087 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.085 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.087 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.084 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.083 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.086 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.084 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.087 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.084 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.086 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.091 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.087 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.089 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.086 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.091 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.083 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.091 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.086 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.086 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.085 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.085 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.099 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.088 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.086 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.104 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.098 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.088 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.086 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.089 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.075 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/dev.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.076 seconds.[0m
+notifying browser that file changed:  /mandelbrot/dev.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.074 seconds.[0m
+notifying browser that file changed:  /mandelbrot/dev.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.072 seconds.[0m
+notifying browser that file changed:  /mandelbrot/dev.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.084 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.089 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.083 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.117 seconds.[0m
+notifying browser that file changed:  target/js/out/goog/deps.js
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+notifying browser that file changed:  /buf2.js
+notifying browser that file changed:  /mandelbrot/dev.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.18 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.168 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.095 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.094 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.106 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.089 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.096 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.091 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.087 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.088 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.092 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.088 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.122 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.09 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.087 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.073 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/dev.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.093 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.088 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.087 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.085 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.092 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.096 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.084 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.086 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.089 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.094 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.085 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.087 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.089 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.109 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.092 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.073 seconds.[0m
+notifying browser that file changed:  /mandelbrot/dev.js
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.192 seconds.[0m
+notifying browser that file changed:  target/js/out/goog/deps.js
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+notifying browser that file changed:  /buf2.js
+notifying browser that file changed:  /mandelbrot/dev.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.206 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.142 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.1 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.097 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.099 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.095 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.092 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.089 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.085 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.091 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.152 seconds.[0m
+notifying browser that file changed:  target/js/out/goog/deps.js
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+notifying browser that file changed:  /buf2.js
+notifying browser that file changed:  /mandelbrot/dev.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.192 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.155 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.1 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.094 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.092 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[31mCompiling "target/js/mandelbrot.js" failed.[0m
+ERROR: Unmatched delimiter ) on file /home/serce/workspace/mandelbrot-cljs/src/page.cljs, line 126, column 56
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[31mCompiling "target/js/mandelbrot.js" failed.[0m
+ERROR: Unmatched delimiter ) on file /home/serce/workspace/mandelbrot-cljs/src/page.cljs, line 126, column 56
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[31mCompiling "target/js/mandelbrot.js" failed.[0m
+ERROR: Unmatched delimiter ) on file /home/serce/workspace/mandelbrot-cljs/src/page.cljs, line 126, column 56
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.095 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.116 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.085 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.087 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.09 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.088 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.131 seconds.[0m
+notifying browser that file changed:  target/js/out/goog/deps.js
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+notifying browser that file changed:  /buf2.js
+notifying browser that file changed:  /mandelbrot/dev.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.179 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.145 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.082 seconds.[0m
+notifying browser that file changed:  target/js/out/goog/deps.js
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+notifying browser that file changed:  /buf2.js
+notifying browser that file changed:  /mandelbrot/dev.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.096 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.093 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.092 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.092 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.112 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.087 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.091 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[31mCompiling "target/js/mandelbrot.js" failed.[0m
+ERROR: EOF while reading, starting at line 103 and column 1 on file /home/serce/workspace/mandelbrot-cljs/src/page.cljs, line 125, column 56
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.084 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.096 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.112 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.093 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.088 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.099 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.114 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.089 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.092 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.095 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.097 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.09 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.095 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.102 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.096 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.09 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.091 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.096 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.089 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[31mCompiling "target/js/mandelbrot.js" failed.[0m
+java.lang.AssertionError: No ns form found in src/tex.cljs
+ at cljs.analyzer$parse_ns$fn__2118.invoke (analyzer.cljc:2740)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2694)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2685)
+    cljs.compiler$compile_root$fn__3168.invoke (compiler.cljc:1377)
+    clojure.core$map$fn__4553.invoke (core.clj:2624)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:507)
+    clojure.core/seq (core.clj:137)
+    clojure.core$map$fn__4553.invoke (core.clj:2616)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:507)
+    clojure.core/seq (core.clj:137)
+    clojure.core.protocols$seq_reduce.invoke (protocols.clj:30)
+    clojure.core.protocols/fn (protocols.clj:101)
+    clojure.core.protocols$fn__6452$G__6447__6465.invoke (protocols.clj:13)
+    clojure.core$reduce.invoke (core.clj:6519)
+    cljs.js_deps$build_index.invoke (js_deps.cljc:128)
+    cljs.js_deps$dependency_order.invoke (js_deps.cljc:168)
+    cljs.compiler$compile_root.invoke (compiler.cljc:1376)
+    cljs.closure$compile_dir.invoke (closure.clj:446)
+    cljs.closure$eval3588$fn__3589.invoke (closure.clj:486)
+    cljs.closure$eval3540$fn__3541$G__3531__3548.invoke (closure.clj:391)
+    cljs.closure$eval3601$fn__3602.invoke (closure.clj:500)
+    cljs.closure$eval3540$fn__3541$G__3531__3548.invoke (closure.clj:391)
+    clojurescript_build.core.CompilableSourcePaths/fn (core.clj:20)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojurescript_build.core.CompilableSourcePaths._compile (core.clj:19)
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: tex is a single segment namespace at line 1 src/tex.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.113 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /tex.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: tex is a single segment namespace at line 1 src/tex.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.123 seconds.[0m
+notifying browser that file changed:  /tex.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.096 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.091 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.101 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.104 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.108 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.092 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.099 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.102 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.096 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[31mCompiling "target/js/mandelbrot.js" failed.[0m
+clojure.lang.ExceptionInfo: failed compiling file:src/page.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.compiler$compile_file$fn__3144.invoke (compiler.cljc:1347)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1309)
+    cljs.compiler$compile_root.invoke (compiler.cljc:1384)
+    cljs.closure$compile_dir.invoke (closure.clj:446)
+    cljs.closure$eval3588$fn__3589.invoke (closure.clj:486)
+    cljs.closure$eval3540$fn__3541$G__3531__3548.invoke (closure.clj:391)
+    cljs.closure$eval3601$fn__3602.invoke (closure.clj:500)
+    cljs.closure$eval3540$fn__3541$G__3531__3548.invoke (closure.clj:391)
+    clojurescript_build.core.CompilableSourcePaths/fn (core.clj:20)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojurescript_build.core.CompilableSourcePaths._compile (core.clj:19)
+    cljs.closure$build.invoke (closure.clj:1683)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:160)
+    figwheel_sidecar.auto_builder$default_build_options$fn__15760.invoke (auto_builder.clj:61)
+    figwheel_sidecar.auto_builder$insert_figwheel_connect_script$fn__15806.invoke (auto_builder.clj:201)
+    figwheel_sidecar.auto_builder$warning$fn__15757.invoke (auto_builder.clj:57)
+    clojurescript_build.auto$time_build$fn__15560.invoke (auto.clj:56)
+    clojurescript_build.auto$after$fn__15566.invoke (auto.clj:65)
+    clojurescript_build.auto$after$fn__15566.invoke (auto.clj:65)
+    clojurescript_build.auto$error$fn__15569.invoke (auto.clj:72)
+    clojurescript_build.auto$before$fn__15563.invoke (auto.clj:61)
+    clojurescript_build.auto$make_conditional_builder$fn__15581.invoke (auto.clj:104)
+    clojure.core$mapv$fn__6727.invoke (core.clj:6616)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojure.core$mapv.invoke (core.clj:6616)
+    clojurescript_build.auto$autobuild_STAR_$fn__15667$state_machine__9543__auto____15668$fn__15673.invoke (auto.clj:187)
+    clojurescript_build.auto$autobuild_STAR_$fn__15667$state_machine__9543__auto____15668.invoke (auto.clj:178)
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[31mCompiling "target/js/mandelbrot.js" failed.[0m
+clojure.lang.ExceptionInfo: failed compiling file:src/page.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.compiler$compile_file$fn__3144.invoke (compiler.cljc:1347)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1309)
+    cljs.compiler$compile_root.invoke (compiler.cljc:1384)
+    cljs.closure$compile_dir.invoke (closure.clj:446)
+    cljs.closure$eval3588$fn__3589.invoke (closure.clj:486)
+    cljs.closure$eval3540$fn__3541$G__3531__3548.invoke (closure.clj:391)
+    cljs.closure$eval3601$fn__3602.invoke (closure.clj:500)
+    cljs.closure$eval3540$fn__3541$G__3531__3548.invoke (closure.clj:391)
+    clojurescript_build.core.CompilableSourcePaths/fn (core.clj:20)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojurescript_build.core.CompilableSourcePaths._compile (core.clj:19)
+    cljs.closure$build.invoke (closure.clj:1683)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:160)
+    figwheel_sidecar.auto_builder$default_build_options$fn__15760.invoke (auto_builder.clj:61)
+    figwheel_sidecar.auto_builder$insert_figwheel_connect_script$fn__15806.invoke (auto_builder.clj:201)
+    figwheel_sidecar.auto_builder$warning$fn__15757.invoke (auto_builder.clj:57)
+    clojurescript_build.auto$time_build$fn__15560.invoke (auto.clj:56)
+    clojurescript_build.auto$after$fn__15566.invoke (auto.clj:65)
+    clojurescript_build.auto$after$fn__15566.invoke (auto.clj:65)
+    clojurescript_build.auto$error$fn__15569.invoke (auto.clj:72)
+    clojurescript_build.auto$before$fn__15563.invoke (auto.clj:61)
+    clojurescript_build.auto$make_conditional_builder$fn__15581.invoke (auto.clj:104)
+    clojure.core$mapv$fn__6727.invoke (core.clj:6616)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojure.core$mapv.invoke (core.clj:6616)
+    clojurescript_build.auto$autobuild_STAR_$fn__15667$state_machine__9543__auto____15668$fn__15673.invoke (auto.clj:187)
+    clojurescript_build.auto$autobuild_STAR_$fn__15667$state_machine__9543__auto____15668.invoke (auto.clj:178)
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[31mCompiling "target/js/mandelbrot.js" failed.[0m
+clojure.lang.ExceptionInfo: failed compiling file:src/page.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.compiler$compile_file$fn__3144.invoke (compiler.cljc:1347)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1309)
+    cljs.compiler$compile_root.invoke (compiler.cljc:1384)
+    cljs.closure$compile_dir.invoke (closure.clj:446)
+    cljs.closure$eval3588$fn__3589.invoke (closure.clj:486)
+    cljs.closure$eval3540$fn__3541$G__3531__3548.invoke (closure.clj:391)
+    cljs.closure$eval3601$fn__3602.invoke (closure.clj:500)
+    cljs.closure$eval3540$fn__3541$G__3531__3548.invoke (closure.clj:391)
+    clojurescript_build.core.CompilableSourcePaths/fn (core.clj:20)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojurescript_build.core.CompilableSourcePaths._compile (core.clj:19)
+    cljs.closure$build.invoke (closure.clj:1683)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:160)
+    figwheel_sidecar.auto_builder$default_build_options$fn__15760.invoke (auto_builder.clj:61)
+    figwheel_sidecar.auto_builder$insert_figwheel_connect_script$fn__15806.invoke (auto_builder.clj:201)
+    figwheel_sidecar.auto_builder$warning$fn__15757.invoke (auto_builder.clj:57)
+    clojurescript_build.auto$time_build$fn__15560.invoke (auto.clj:56)
+    clojurescript_build.auto$after$fn__15566.invoke (auto.clj:65)
+    clojurescript_build.auto$after$fn__15566.invoke (auto.clj:65)
+    clojurescript_build.auto$error$fn__15569.invoke (auto.clj:72)
+    clojurescript_build.auto$before$fn__15563.invoke (auto.clj:61)
+    clojurescript_build.auto$make_conditional_builder$fn__15581.invoke (auto.clj:104)
+    clojure.core$mapv$fn__6727.invoke (core.clj:6616)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojure.core$mapv.invoke (core.clj:6616)
+    clojurescript_build.auto$autobuild_STAR_$fn__15667$state_machine__9543__auto____15668$fn__15673.invoke (auto.clj:187)
+    clojurescript_build.auto$autobuild_STAR_$fn__15667$state_machine__9543__auto____15668.invoke (auto.clj:178)
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.097 seconds.[0m
+notifying browser that file changed:  target/js/out/goog/deps.js
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+notifying browser that file changed:  /buf2.js
+notifying browser that file changed:  /mandelbrot/dev.js
+notifying browser that file changed:  /tex.js
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.118 seconds.[0m
+notifying browser that file changed:  target/js/out/goog/deps.js
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+notifying browser that file changed:  /buf2.js
+notifying browser that file changed:  /mandelbrot/dev.js
+notifying browser that file changed:  /tex.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.195 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.119 seconds.[0m
+notifying browser that file changed:  target/js/out/goog/deps.js
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+notifying browser that file changed:  /buf2.js
+notifying browser that file changed:  /mandelbrot/dev.js
+notifying browser that file changed:  /tex.js
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.162 seconds.[0m
+notifying browser that file changed:  target/js/out/goog/deps.js
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /buf2.js
+notifying browser that file changed:  /tex.js
+notifying browser that file changed:  /mandelbrot/core.js
+notifying browser that file changed:  /mandelbrot/dev.js
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.123 seconds.[0m
+notifying browser that file changed:  target/js/out/goog/deps.js
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /buf2.js
+notifying browser that file changed:  /tex.js
+notifying browser that file changed:  /mandelbrot/core.js
+notifying browser that file changed:  /mandelbrot/dev.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: Use of undeclared Var mandelbrot.core/reaload-atom at line 132 src/page.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.202 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: Use of undeclared Var mandelbrot.core/reaload-atom at line 133 src/page.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 4.708 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: Use of undeclared Var mandelbrot.core/reaload-atom at line 133 src/page.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.17 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: Use of undeclared Var mandelbrot.core/reaload-atom at line 133 src/page.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.149 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: Use of undeclared Var mandelbrot.core/reaload-atom at line 133 src/page.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.158 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.149 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.139 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.138 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.168 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.142 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.171 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.142 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.149 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.14 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.156 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.157 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.135 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.142 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.135 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.142 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.141 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.158 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[31mCompiling "target/js/mandelbrot.js" failed.[0m
+ERROR: Unmatched delimiter ] on file /home/serce/workspace/mandelbrot-cljs/src/page.cljs, line 156, column 15
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.133 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.139 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.14 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.134 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.143 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.135 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.146 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.14 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.134 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: tex is a single segment namespace at line 1 src/tex.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.202 seconds.[0m
+notifying browser that file changed:  /tex.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: tex is a single segment namespace at line 1 src/tex.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.175 seconds.[0m
+notifying browser that file changed:  /tex.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: tex is a single segment namespace at line 1 src/tex.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.176 seconds.[0m
+notifying browser that file changed:  /tex.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: tex is a single segment namespace at line 1 src/tex.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.181 seconds.[0m
+notifying browser that file changed:  /tex.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: tex is a single segment namespace at line 1 src/tex.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.172 seconds.[0m
+notifying browser that file changed:  /tex.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.136 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.138 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.145 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.132 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.133 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.144 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[31mCompiling "target/js/mandelbrot.js" failed.[0m
+clojure.lang.ExceptionInfo: failed compiling file:src/page.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.compiler$compile_file$fn__3200.invoke (compiler.cljc:1347)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1309)
+    cljs.compiler$compile_root.invoke (compiler.cljc:1384)
+    cljs.closure$compile_dir.invoke (closure.clj:446)
+    cljs.closure$eval3644$fn__3645.invoke (closure.clj:486)
+    cljs.closure$eval3596$fn__3597$G__3587__3604.invoke (closure.clj:391)
+    cljs.closure$eval3657$fn__3658.invoke (closure.clj:500)
+    cljs.closure$eval3596$fn__3597$G__3587__3604.invoke (closure.clj:391)
+    clojurescript_build.core.CompilableSourcePaths/fn (core.clj:20)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojurescript_build.core.CompilableSourcePaths._compile (core.clj:19)
+    cljs.closure$build.invoke (closure.clj:1683)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:160)
+    figwheel_sidecar.auto_builder$default_build_options$fn__16008.invoke (auto_builder.clj:78)
+    figwheel_sidecar.auto_builder$insert_figwheel_connect_script$fn__16054.invoke (auto_builder.clj:217)
+    figwheel_sidecar.auto_builder$warning$fn__16005.invoke (auto_builder.clj:74)
+    clojurescript_build.auto$time_build$fn__15801.invoke (auto.clj:55)
+    clojurescript_build.auto$after$fn__15807.invoke (auto.clj:64)
+    clojurescript_build.auto$after$fn__15807.invoke (auto.clj:64)
+    clojurescript_build.auto$after$fn__15807.invoke (auto.clj:64)
+    clojurescript_build.auto$error$fn__15810.invoke (auto.clj:71)
+    clojurescript_build.auto$before$fn__15804.invoke (auto.clj:60)
+    clojurescript_build.auto$make_conditional_builder$fn__15822.invoke (auto.clj:103)
+    clojure.core$mapv$fn__6727.invoke (core.clj:6616)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojure.core$mapv.invoke (core.clj:6616)
+    clojurescript_build.auto$autobuild_STAR_$fn__15908$state_machine__9429__auto____15909$fn__15914.invoke (auto.clj:186)
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.139 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.132 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.14 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.134 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[31mCompiling "target/js/mandelbrot.js" failed.[0m
+clojure.lang.ExceptionInfo: failed compiling file:src/page.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.compiler$compile_file$fn__3200.invoke (compiler.cljc:1347)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1309)
+    cljs.compiler$compile_root.invoke (compiler.cljc:1384)
+    cljs.closure$compile_dir.invoke (closure.clj:446)
+    cljs.closure$eval3644$fn__3645.invoke (closure.clj:486)
+    cljs.closure$eval3596$fn__3597$G__3587__3604.invoke (closure.clj:391)
+    cljs.closure$eval3657$fn__3658.invoke (closure.clj:500)
+    cljs.closure$eval3596$fn__3597$G__3587__3604.invoke (closure.clj:391)
+    clojurescript_build.core.CompilableSourcePaths/fn (core.clj:20)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojurescript_build.core.CompilableSourcePaths._compile (core.clj:19)
+    cljs.closure$build.invoke (closure.clj:1683)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:160)
+    figwheel_sidecar.auto_builder$default_build_options$fn__16008.invoke (auto_builder.clj:78)
+    figwheel_sidecar.auto_builder$insert_figwheel_connect_script$fn__16054.invoke (auto_builder.clj:217)
+    figwheel_sidecar.auto_builder$warning$fn__16005.invoke (auto_builder.clj:74)
+    clojurescript_build.auto$time_build$fn__15801.invoke (auto.clj:55)
+    clojurescript_build.auto$after$fn__15807.invoke (auto.clj:64)
+    clojurescript_build.auto$after$fn__15807.invoke (auto.clj:64)
+    clojurescript_build.auto$after$fn__15807.invoke (auto.clj:64)
+    clojurescript_build.auto$error$fn__15810.invoke (auto.clj:71)
+    clojurescript_build.auto$before$fn__15804.invoke (auto.clj:60)
+    clojurescript_build.auto$make_conditional_builder$fn__15822.invoke (auto.clj:103)
+    clojure.core$mapv$fn__6727.invoke (core.clj:6616)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojure.core$mapv.invoke (core.clj:6616)
+    clojurescript_build.auto$autobuild_STAR_$fn__15908$state_machine__9429__auto____15909$fn__15914.invoke (auto.clj:186)
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[31mCompiling "target/js/mandelbrot.js" failed.[0m
+clojure.lang.ExceptionInfo: failed compiling file:src/page.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.compiler$compile_file$fn__3200.invoke (compiler.cljc:1347)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1309)
+    cljs.compiler$compile_root.invoke (compiler.cljc:1384)
+    cljs.closure$compile_dir.invoke (closure.clj:446)
+    cljs.closure$eval3644$fn__3645.invoke (closure.clj:486)
+    cljs.closure$eval3596$fn__3597$G__3587__3604.invoke (closure.clj:391)
+    cljs.closure$eval3657$fn__3658.invoke (closure.clj:500)
+    cljs.closure$eval3596$fn__3597$G__3587__3604.invoke (closure.clj:391)
+    clojurescript_build.core.CompilableSourcePaths/fn (core.clj:20)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojurescript_build.core.CompilableSourcePaths._compile (core.clj:19)
+    cljs.closure$build.invoke (closure.clj:1683)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:160)
+    figwheel_sidecar.auto_builder$default_build_options$fn__16008.invoke (auto_builder.clj:78)
+    figwheel_sidecar.auto_builder$insert_figwheel_connect_script$fn__16054.invoke (auto_builder.clj:217)
+    figwheel_sidecar.auto_builder$warning$fn__16005.invoke (auto_builder.clj:74)
+    clojurescript_build.auto$time_build$fn__15801.invoke (auto.clj:55)
+    clojurescript_build.auto$after$fn__15807.invoke (auto.clj:64)
+    clojurescript_build.auto$after$fn__15807.invoke (auto.clj:64)
+    clojurescript_build.auto$after$fn__15807.invoke (auto.clj:64)
+    clojurescript_build.auto$error$fn__15810.invoke (auto.clj:71)
+    clojurescript_build.auto$before$fn__15804.invoke (auto.clj:60)
+    clojurescript_build.auto$make_conditional_builder$fn__15822.invoke (auto.clj:103)
+    clojure.core$mapv$fn__6727.invoke (core.clj:6616)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojure.core$mapv.invoke (core.clj:6616)
+    clojurescript_build.auto$autobuild_STAR_$fn__15908$state_machine__9429__auto____15909$fn__15914.invoke (auto.clj:186)
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[31mCompiling "target/js/mandelbrot.js" failed.[0m
+clojure.lang.ExceptionInfo: failed compiling file:src/page.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.compiler$compile_file$fn__3200.invoke (compiler.cljc:1347)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1309)
+    cljs.compiler$compile_root.invoke (compiler.cljc:1384)
+    cljs.closure$compile_dir.invoke (closure.clj:446)
+    cljs.closure$eval3644$fn__3645.invoke (closure.clj:486)
+    cljs.closure$eval3596$fn__3597$G__3587__3604.invoke (closure.clj:391)
+    cljs.closure$eval3657$fn__3658.invoke (closure.clj:500)
+    cljs.closure$eval3596$fn__3597$G__3587__3604.invoke (closure.clj:391)
+    clojurescript_build.core.CompilableSourcePaths/fn (core.clj:20)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojurescript_build.core.CompilableSourcePaths._compile (core.clj:19)
+    cljs.closure$build.invoke (closure.clj:1683)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:160)
+    figwheel_sidecar.auto_builder$default_build_options$fn__16008.invoke (auto_builder.clj:78)
+    figwheel_sidecar.auto_builder$insert_figwheel_connect_script$fn__16054.invoke (auto_builder.clj:217)
+    figwheel_sidecar.auto_builder$warning$fn__16005.invoke (auto_builder.clj:74)
+    clojurescript_build.auto$time_build$fn__15801.invoke (auto.clj:55)
+    clojurescript_build.auto$after$fn__15807.invoke (auto.clj:64)
+    clojurescript_build.auto$after$fn__15807.invoke (auto.clj:64)
+    clojurescript_build.auto$after$fn__15807.invoke (auto.clj:64)
+    clojurescript_build.auto$error$fn__15810.invoke (auto.clj:71)
+    clojurescript_build.auto$before$fn__15804.invoke (auto.clj:60)
+    clojurescript_build.auto$make_conditional_builder$fn__15822.invoke (auto.clj:103)
+    clojure.core$mapv$fn__6727.invoke (core.clj:6616)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojure.core$mapv.invoke (core.clj:6616)
+    clojurescript_build.auto$autobuild_STAR_$fn__15908$state_machine__9429__auto____15909$fn__15914.invoke (auto.clj:186)
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[31mCompiling "target/js/mandelbrot.js" failed.[0m
+clojure.lang.ExceptionInfo: failed compiling file:src/page.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.compiler$compile_file$fn__3200.invoke (compiler.cljc:1347)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1309)
+    cljs.compiler$compile_root.invoke (compiler.cljc:1384)
+    cljs.closure$compile_dir.invoke (closure.clj:446)
+    cljs.closure$eval3644$fn__3645.invoke (closure.clj:486)
+    cljs.closure$eval3596$fn__3597$G__3587__3604.invoke (closure.clj:391)
+    cljs.closure$eval3657$fn__3658.invoke (closure.clj:500)
+    cljs.closure$eval3596$fn__3597$G__3587__3604.invoke (closure.clj:391)
+    clojurescript_build.core.CompilableSourcePaths/fn (core.clj:20)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojurescript_build.core.CompilableSourcePaths._compile (core.clj:19)
+    cljs.closure$build.invoke (closure.clj:1683)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:160)
+    figwheel_sidecar.auto_builder$default_build_options$fn__16008.invoke (auto_builder.clj:78)
+    figwheel_sidecar.auto_builder$insert_figwheel_connect_script$fn__16054.invoke (auto_builder.clj:217)
+    figwheel_sidecar.auto_builder$warning$fn__16005.invoke (auto_builder.clj:74)
+    clojurescript_build.auto$time_build$fn__15801.invoke (auto.clj:55)
+    clojurescript_build.auto$after$fn__15807.invoke (auto.clj:64)
+    clojurescript_build.auto$after$fn__15807.invoke (auto.clj:64)
+    clojurescript_build.auto$after$fn__15807.invoke (auto.clj:64)
+    clojurescript_build.auto$error$fn__15810.invoke (auto.clj:71)
+    clojurescript_build.auto$before$fn__15804.invoke (auto.clj:60)
+    clojurescript_build.auto$make_conditional_builder$fn__15822.invoke (auto.clj:103)
+    clojure.core$mapv$fn__6727.invoke (core.clj:6616)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojure.core$mapv.invoke (core.clj:6616)
+    clojurescript_build.auto$autobuild_STAR_$fn__15908$state_machine__9429__auto____15909$fn__15914.invoke (auto.clj:186)
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[31mCompiling "target/js/mandelbrot.js" failed.[0m
+clojure.lang.ExceptionInfo: failed compiling file:src/page.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.compiler$compile_file$fn__3200.invoke (compiler.cljc:1347)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1309)
+    cljs.compiler$compile_root.invoke (compiler.cljc:1384)
+    cljs.closure$compile_dir.invoke (closure.clj:446)
+    cljs.closure$eval3644$fn__3645.invoke (closure.clj:486)
+    cljs.closure$eval3596$fn__3597$G__3587__3604.invoke (closure.clj:391)
+    cljs.closure$eval3657$fn__3658.invoke (closure.clj:500)
+    cljs.closure$eval3596$fn__3597$G__3587__3604.invoke (closure.clj:391)
+    clojurescript_build.core.CompilableSourcePaths/fn (core.clj:20)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojurescript_build.core.CompilableSourcePaths._compile (core.clj:19)
+    cljs.closure$build.invoke (closure.clj:1683)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:160)
+    figwheel_sidecar.auto_builder$default_build_options$fn__16008.invoke (auto_builder.clj:78)
+    figwheel_sidecar.auto_builder$insert_figwheel_connect_script$fn__16054.invoke (auto_builder.clj:217)
+    figwheel_sidecar.auto_builder$warning$fn__16005.invoke (auto_builder.clj:74)
+    clojurescript_build.auto$time_build$fn__15801.invoke (auto.clj:55)
+    clojurescript_build.auto$after$fn__15807.invoke (auto.clj:64)
+    clojurescript_build.auto$after$fn__15807.invoke (auto.clj:64)
+    clojurescript_build.auto$after$fn__15807.invoke (auto.clj:64)
+    clojurescript_build.auto$error$fn__15810.invoke (auto.clj:71)
+    clojurescript_build.auto$before$fn__15804.invoke (auto.clj:60)
+    clojurescript_build.auto$make_conditional_builder$fn__15822.invoke (auto.clj:103)
+    clojure.core$mapv$fn__6727.invoke (core.clj:6616)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojure.core$mapv.invoke (core.clj:6616)
+    clojurescript_build.auto$autobuild_STAR_$fn__15908$state_machine__9429__auto____15909$fn__15914.invoke (auto.clj:186)
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[31mCompiling "target/js/mandelbrot.js" failed.[0m
+clojure.lang.ExceptionInfo: failed compiling file:src/page.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.compiler$compile_file$fn__3200.invoke (compiler.cljc:1347)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1309)
+    cljs.compiler$compile_root.invoke (compiler.cljc:1384)
+    cljs.closure$compile_dir.invoke (closure.clj:446)
+    cljs.closure$eval3644$fn__3645.invoke (closure.clj:486)
+    cljs.closure$eval3596$fn__3597$G__3587__3604.invoke (closure.clj:391)
+    cljs.closure$eval3657$fn__3658.invoke (closure.clj:500)
+    cljs.closure$eval3596$fn__3597$G__3587__3604.invoke (closure.clj:391)
+    clojurescript_build.core.CompilableSourcePaths/fn (core.clj:20)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojurescript_build.core.CompilableSourcePaths._compile (core.clj:19)
+    cljs.closure$build.invoke (closure.clj:1683)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:160)
+    figwheel_sidecar.auto_builder$default_build_options$fn__16008.invoke (auto_builder.clj:78)
+    figwheel_sidecar.auto_builder$insert_figwheel_connect_script$fn__16054.invoke (auto_builder.clj:217)
+    figwheel_sidecar.auto_builder$warning$fn__16005.invoke (auto_builder.clj:74)
+    clojurescript_build.auto$time_build$fn__15801.invoke (auto.clj:55)
+    clojurescript_build.auto$after$fn__15807.invoke (auto.clj:64)
+    clojurescript_build.auto$after$fn__15807.invoke (auto.clj:64)
+    clojurescript_build.auto$after$fn__15807.invoke (auto.clj:64)
+    clojurescript_build.auto$error$fn__15810.invoke (auto.clj:71)
+    clojurescript_build.auto$before$fn__15804.invoke (auto.clj:60)
+    clojurescript_build.auto$make_conditional_builder$fn__15822.invoke (auto.clj:103)
+    clojure.core$mapv$fn__6727.invoke (core.clj:6616)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojure.core$mapv.invoke (core.clj:6616)
+    clojurescript_build.auto$autobuild_STAR_$fn__15908$state_machine__9429__auto____15909$fn__15914.invoke (auto.clj:186)
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[31mCompiling "target/js/mandelbrot.js" failed.[0m
+clojure.lang.ExceptionInfo: failed compiling file:src/page.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.compiler$compile_file$fn__3200.invoke (compiler.cljc:1347)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1309)
+    cljs.compiler$compile_root.invoke (compiler.cljc:1384)
+    cljs.closure$compile_dir.invoke (closure.clj:446)
+    cljs.closure$eval3644$fn__3645.invoke (closure.clj:486)
+    cljs.closure$eval3596$fn__3597$G__3587__3604.invoke (closure.clj:391)
+    cljs.closure$eval3657$fn__3658.invoke (closure.clj:500)
+    cljs.closure$eval3596$fn__3597$G__3587__3604.invoke (closure.clj:391)
+    clojurescript_build.core.CompilableSourcePaths/fn (core.clj:20)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojurescript_build.core.CompilableSourcePaths._compile (core.clj:19)
+    cljs.closure$build.invoke (closure.clj:1683)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:160)
+    figwheel_sidecar.auto_builder$default_build_options$fn__16008.invoke (auto_builder.clj:78)
+    figwheel_sidecar.auto_builder$insert_figwheel_connect_script$fn__16054.invoke (auto_builder.clj:217)
+    figwheel_sidecar.auto_builder$warning$fn__16005.invoke (auto_builder.clj:74)
+    clojurescript_build.auto$time_build$fn__15801.invoke (auto.clj:55)
+    clojurescript_build.auto$after$fn__15807.invoke (auto.clj:64)
+    clojurescript_build.auto$after$fn__15807.invoke (auto.clj:64)
+    clojurescript_build.auto$after$fn__15807.invoke (auto.clj:64)
+    clojurescript_build.auto$error$fn__15810.invoke (auto.clj:71)
+    clojurescript_build.auto$before$fn__15804.invoke (auto.clj:60)
+    clojurescript_build.auto$make_conditional_builder$fn__15822.invoke (auto.clj:103)
+    clojure.core$mapv$fn__6727.invoke (core.clj:6616)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojure.core$mapv.invoke (core.clj:6616)
+    clojurescript_build.auto$autobuild_STAR_$fn__15908$state_machine__9429__auto____15909$fn__15914.invoke (auto.clj:186)
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[31mCompiling "target/js/mandelbrot.js" failed.[0m
+clojure.lang.ExceptionInfo: failed compiling file:src/page.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.compiler$compile_file$fn__3200.invoke (compiler.cljc:1347)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1309)
+    cljs.compiler$compile_root.invoke (compiler.cljc:1384)
+    cljs.closure$compile_dir.invoke (closure.clj:446)
+    cljs.closure$eval3644$fn__3645.invoke (closure.clj:486)
+    cljs.closure$eval3596$fn__3597$G__3587__3604.invoke (closure.clj:391)
+    cljs.closure$eval3657$fn__3658.invoke (closure.clj:500)
+    cljs.closure$eval3596$fn__3597$G__3587__3604.invoke (closure.clj:391)
+    clojurescript_build.core.CompilableSourcePaths/fn (core.clj:20)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojurescript_build.core.CompilableSourcePaths._compile (core.clj:19)
+    cljs.closure$build.invoke (closure.clj:1683)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:160)
+    figwheel_sidecar.auto_builder$default_build_options$fn__16008.invoke (auto_builder.clj:78)
+    figwheel_sidecar.auto_builder$insert_figwheel_connect_script$fn__16054.invoke (auto_builder.clj:217)
+    figwheel_sidecar.auto_builder$warning$fn__16005.invoke (auto_builder.clj:74)
+    clojurescript_build.auto$time_build$fn__15801.invoke (auto.clj:55)
+    clojurescript_build.auto$after$fn__15807.invoke (auto.clj:64)
+    clojurescript_build.auto$after$fn__15807.invoke (auto.clj:64)
+    clojurescript_build.auto$after$fn__15807.invoke (auto.clj:64)
+    clojurescript_build.auto$error$fn__15810.invoke (auto.clj:71)
+    clojurescript_build.auto$before$fn__15804.invoke (auto.clj:60)
+    clojurescript_build.auto$make_conditional_builder$fn__15822.invoke (auto.clj:103)
+    clojure.core$mapv$fn__6727.invoke (core.clj:6616)
+    clojure.lang.PersistentVector.reduce (PersistentVector.java:333)
+    clojure.core$reduce.invoke (core.clj:6518)
+    clojure.core$mapv.invoke (core.clj:6616)
+    clojurescript_build.auto$autobuild_STAR_$fn__15908$state_machine__9429__auto____15909$fn__15914.invoke (auto.clj:186)
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.138 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.143 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.14 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.141 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.143 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.151 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.157 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.146 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.141 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.144 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.148 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.15 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.151 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.158 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.156 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.152 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.155 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.161 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.166 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.157 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.205 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.152 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.169 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.164 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.184 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.152 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.164 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.181 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.148 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.159 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.16 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.152 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.146 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.15 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.157 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.152 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.16 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.148 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.151 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.209 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.153 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.181 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.151 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.158 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.149 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.159 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.147 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.146 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.152 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.157 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.147 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.149 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.151 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.155 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.151 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.148 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.154 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.149 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.174 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.145 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.173 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.164 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.147 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.149 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.145 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.148 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.148 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.151 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.149 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.154 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.147 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.146 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.148 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.154 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.15 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.157 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: Wrong number of args (0) passed to mandelbrot.core/load-image at line 103 src/page.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.176 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.156 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.156 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.154 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: tex is a single segment namespace at line 1 src/tex.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.204 seconds.[0m
+notifying browser that file changed:  /tex.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.152 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.157 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.16 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.165 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.155 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.151 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.152 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.165 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.16 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.154 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.149 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.157 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.165 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.154 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.152 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.162 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.157 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.155 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.155 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.158 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.153 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.155 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.157 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.156 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.156 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.16 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.201 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.155 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.158 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.194 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.155 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.162 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.153 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.149 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: Use of undeclared Var mandelbrot.core/drawl at line 105 src/page.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.178 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: Use of undeclared Var mandelbrot.core/drawl at line 105 src/page.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.177 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: Use of undeclared Var mandelbrot.core/drawl at line 105 src/page.cljs
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.191 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.157 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.16 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.178 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.163 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.16 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.154 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.153 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.199 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.173 seconds.[0m
+notifying browser that file changed:  /mandelbrot/core.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+WARNING: Required namespace not provided for tex
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.16 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+[0mCompiling "target/js/mandelbrot.js" from ["src" "dev_src"]...
+[32mSuccessfully compiled "target/js/mandelbrot.js" in 0.15 seconds.[0m
+notifying browser that file changed:  target/js/out/cljs_deps.js
+notifying browser that file changed:  /mandelbrot/core.js
